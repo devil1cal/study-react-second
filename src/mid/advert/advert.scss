@@ -1,0 +1,51 @@
+.smartbox {
+  border-radius: 30px 30px 30px 30px;
+  width: 623px;
+  height: 200px;
+
+  position: absolute;
+  top: 150px;
+  left: 225px;
+  display: inline-flex;
+  background-color: #f5f6f8;
+}
+.paragbox {
+  width: 400px;
+
+  align-content: center;
+  text-transform: capitalize;
+  text-align: left;
+  position: relative;
+  margin-top: 45px;
+  padding-left: 25px;
+}
+/*fonts*/
+.mainhead {
+  position: relative;
+  font-size: 25px;
+  font-family: "lato";
+  font-weight: 500;
+}
+.mainparag {
+  position: relative;
+  font-size: 15px;
+  font-family: "lato";
+  font-weight: 400;
+}
+.smartbutton {
+  position: relative;
+  font-size: 16px;
+  font-family: "lato";
+  font-weight: 700;
+}
+.smartbutton a {
+  text-decoration: none;
+  color: red;
+}
+/*secondsection*/
+.boxmain {
+  display: inline-flex;
+  flex-direction: row;
+  margin-top: 45px;
+  padding-left: 10px;
+}

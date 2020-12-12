@@ -1,0 +1,74 @@
+/*main callendar box style*/
+.callendarbox {
+  border-radius: 30px 30px 30px 30px;
+  width: 623px;
+  height: 125px;
+  position: absolute;
+  top: 475px;
+  left: 225px;
+}
+/*callendar time choisening style */
+.dummycallendarimg {
+  position: absolute;
+  display: inline-flex;
+  width: 623px;
+  height: 75px;
+  border-radius: 30px 30px 30px 30px;
+  top: 50px;
+  left: 0;
+}
+
+/*css design*/
+.callendarstick {
+  position: absolute;
+  width: 615px;
+  height: 0;
+  border: 1px solid #bdc4ca;
+  top: 0px;
+  left: 0px;
+  margin: 0;
+  padding: 0;
+}
+.callendarstick1 {
+  position: absolute;
+  width: 615px;
+  height: 0;
+  border: 1px solid #bdc4ca;
+  top: 100px;
+  left: 1px;
+  margin: 0;
+  padding: 0;
+}
+/*callendar box style & fonts*/
+.callistbox {
+  position: relative;
+  top: -15px;
+  left: -50px;
+}
+
+.fsttab {
+  display: flex;
+  flex-direction: row;
+  font-family: "lato";
+  font-size: 18px;
+  font-weight: 600;
+  color: #bdc4ca;
+}
+.fsttab li {
+  justify-content: space-between;
+  margin: 1em;
+}
+
+.callendardays {
+  width: 300px;
+  height: 100px;
+}
+.blueone {
+  color: #7682fc;
+}
+/*callendar button in progress style*/
+.callendarbutton {
+  position: absolute;
+  top: 50px;
+  right: -200px;
+}

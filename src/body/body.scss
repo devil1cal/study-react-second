@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  margin:0;
+}
+
+body {
+  width: 100vh;
+  height: 100vh;
+  max-width: 375px;
+  max-height: 58.2vh;
+  z-index: -1;
+  position: absolute;
+  background-color: #ffffff;
+  border:1px solid black;
+}
+

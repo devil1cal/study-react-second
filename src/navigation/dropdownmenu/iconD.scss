@@ -1,0 +1,44 @@
+.my-element{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 375px;
+  max-height: 75px;
+  margin:0;
+  padding: 0;
+
+
+  .list-menu {
+    .dropdownicon{
+      background-color: #fbd05e;
+      border:none;
+
+    .iconcss 
+      svg{
+        width: 3em;
+        height: 1.8em;
+        }
+      }
+    } 
+
+.menuD{
+  display: flex;
+  flex-direction: column;
+  background-color: #fbd05e;
+  justify-content: space-around;
+  padding-top:10px;
+  padding-bottom: 10px;
+  height: 100px;
+  width: 45px;
+  border-radius: 5px;
+ 
+  .ditems{
+  color:black;
+
+  }
+}
+}
+
+
+
+

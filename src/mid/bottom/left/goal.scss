@@ -1,0 +1,52 @@
+/*main box style */
+.btmfst {
+  width: 100%;
+  position: absolute;
+  top: 700px;
+  left: 225px;
+  max-width: 300px;
+  height: 250px;
+}
+/* innerbox style*/
+.firstbox {
+  border-radius: 30px 30px 30px 30px;
+  width: 300px;
+  height: 250px;
+  background-color: #f5f6f8;
+  position: relative;
+}
+/*image style*/
+.man1 {
+  position: absolute;
+  top: -15px;
+  left: 190px;
+}
+
+/*parag fonts & styles*/
+.boldhead1 {
+  display: inline-flex;
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  font-family: "lato";
+  font-size: 20px;
+  color: #262a42;
+}
+.innerbox1 {
+  position: relative;
+}
+.innerbox1 ul {
+  display: inline-flex;
+  position: absolute;
+  top: 90px;
+  left: 20px;
+  flex-direction: column;
+  width: 150px;
+  padding: 0;
+  margin: 0;
+  font-family: "lato";
+  font-size: 15px;
+  color: #b6b8c3;
+  text-align: left;
+  line-height: 25px;
+}

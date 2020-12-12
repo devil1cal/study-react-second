@@ -1,0 +1,43 @@
+.my-option{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  max-width: 375px;
+  max-height: 75px;
+  margin:0;
+  padding: 0;
+  
+  .opt-menu{
+    .dropoption{
+       background-color: #fbd05e;
+       border:none;
+      }
+
+    .optcss {
+      svg{
+        width: 3em;
+        height: 1.8em;
+      }
+    }
+  }
+
+  .optD{
+    flex-direction: column;
+    background-color: #fbd05e;
+    justify-content: space-around;
+    padding-top:10px;
+    height: 100px;
+    width: 50px;
+    border-radius: 5px;
+    
+    .oitems{
+      color:black;
+    }
+  }
+}
+
+  
+  
+  
+  
+  

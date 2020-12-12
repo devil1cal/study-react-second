@@ -1,0 +1,37 @@
+/* main unsortlist style*/
+
+header {
+  display: flex;
+  background-color: #fbd05e;
+  justify-content:space-evenly;
+  max-width: 375px;
+  min-height: 50px;
+  flex-direction: column;}
+
+    .menu-mobile{
+      display: flex;}
+
+      ul{
+      display:inline-flex;
+      list-style: none;
+      width: 100%;
+      height: 100%;
+      max-width: 375px;
+      min-height: 50px;
+      align-items: center;
+      flex-direction: row;
+      justify-content: space-between;}
+
+      li{
+      display: inline-flex;
+      justify-content: center;
+      align-content: center;
+      align-items: cemter;
+      padding:5%;}
+     
+        
+        
+
+     
+  
+
